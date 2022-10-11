@@ -1,5 +1,5 @@
 package com.socket;
-
+import com.reactnativecommunity.cameraroll.CameraRollPackage;
 import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;
@@ -11,6 +11,7 @@ import com.facebook.react.config.ReactFeatureFlags;
 import com.facebook.soloader.SoLoader;
 import com.socket.newarchitecture.MainApplicationReactNativeHost;
 import java.lang.reflect.InvocationTargetException;
+import net.wowmaking.RNImageToolsPackage;
 import java.util.List;
 
 public class MainApplication extends Application implements ReactApplication {

@@ -10,12 +10,22 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@qeepsake/react-native-images-collage": "^3.3.6",
+    "@react-native-camera-roll/camera-roll": "^5.0.3",
+    "@react-navigation/native": "^6.0.13",
+    "@react-navigation/native-stack": "^6.9.0",
+    "merge-images": "^2.0.0",
     "react": "18.1.0",
     "react-native": "0.70.1",
     "react-native-fs": "^2.20.0",
+    "react-native-gesture-handler": "^2.7.0",
     "react-native-image-crop-picker": "^0.38.0",
     "react-native-image-filter-kit": "^0.8.0",
+    "react-native-image-tools-wm": "^1.5.8",
     "react-native-photo-editor": "^1.0.13",
+    "react-native-safe-area-context": "^4.4.1",
+    "react-native-screens": "^3.17.0",
+    "react-native-view-shot": "^3.4.0",
     "rn-fetch-blob": "^0.12.0"
   },
   "devDependencies": {
